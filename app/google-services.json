@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "446312169378",
+    "firebase_url": "https://lastchamcebaby.firebaseio.com",
+    "project_id": "lastchamcebaby",
+    "storage_bucket": "lastchamcebaby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446312169378:android:ba7a7f59c06c7e75",
+        "android_client_info": {
+          "package_name": "com.example.raghad.lastchamcebaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446312169378-kj3ndg11etrbnv6rv8h7ar1c4rjvsv72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raghad.lastchamcebaby",
+            "certificate_hash": "b7ec9611d3c6b18462c277ccae213d0269b8b5e1"
+          }
+        },
+        {
+          "client_id": "446312169378-s3s1995omebgejahoj6q8oklucfaau6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByj9zUeYXW8la1g0BuE1h72XEQmgiVPF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446312169378-s3s1995omebgejahoj6q8oklucfaau6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Waiee</string>
+    <string name="warning_hotSun">You have to drink water</string>
+    <string name="hotPer">60C</string>
+    <string name="heartPer">160</string>
+    <string name="cancel">cancel</string>
+    <string name="help">go to help</string>
+    <string name="blood_type">O+</string>
+</resources>
